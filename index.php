@@ -19,3 +19,4 @@ print "<h1>Fechamento ".$date[2]."/".$date[1]."/".$date[0]."</h1>";
 
 //CÓDIGO FEITO USANDO A AULA DE EXPLODE DO Rodrigo Kulb NO YOUTUBE
 ?>
+  
