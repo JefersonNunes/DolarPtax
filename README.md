@@ -7,7 +7,7 @@ Usaremos o file_get_contents para buscar o conteúdo da pagina.
 
 ## Você poderá ver um demo ao vivo no link: :dash:
 
-> https://nunes.link/bq/dolarptax/
+> https://nunes.link/apps/dolarptax/
 
 <p align="justify">O Código desse repositório não está estilizado, então você pode usar css e deixar visualmente melhor.
 <br>Manipulando o código você pode pegar também outros dados disponíveis no site do Banco Central.<p>
