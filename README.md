@@ -11,3 +11,5 @@ Usaremos o file_get_contents para buscar o conteúdo da pagina.
 
 <p align="justify">O Código desse repositório não está estilizado, então você pode usar css e deixar visualmente melhor.
 <br>Manipulando o código você pode pegar também outros dados disponíveis no site do Banco Central.<p>
+
+![alt text](https://i.ibb.co/rFDWJsk/Capturar.png)  
